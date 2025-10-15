@@ -1,0 +1,14 @@
+{
+  "name": "graphql-blog-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Frontend for GraphQL Blog application",
+  "scripts": {
+    "dev": "echo \"Frontend not configured yet\"",
+    "build": "echo \"Frontend not configured yet\"",
+    "start": "echo \"Frontend not configured yet\""
+  },
+  "keywords": ["react", "graphql", "apollo-client", "typescript"],
+  "author": "",
+  "license": "ISC"
+}
