@@ -12,21 +12,33 @@ logs
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
 
 # OS files
 .DS_Store
 Thumbs.db
 
-# IDE
-.vscode/
+# IDE/Editor directories and files
+.vscode/*
+!.vscode/extensions.json
 .idea/
 *.swp
 *.swo
+*.sw?
 *~
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
 
 # Build output
 dist/
+dist-ssr/
 build/
 
 # TypeScript
 *.tsbuildinfo
+
+# Local files
+*.local
